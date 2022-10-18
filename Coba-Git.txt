@@ -2,5 +2,5 @@ Coba Git
 -Ini adalah percobaan memakai GitHub dari menonton https://www.youtube.com/watch?v=Q3Id0DgcrXY&t=6s
 -Percobaan ini bukan source code apa-apa.
 
--Ini adalah tambahan baris sebagai percobaan berikut
 -Ini tambahan lagi.
+-Ini tambahan satu lagi.
